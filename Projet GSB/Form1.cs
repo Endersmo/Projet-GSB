@@ -6,5 +6,10 @@ namespace Projet_GSB
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
